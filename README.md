@@ -1,2 +1,0 @@
-# blinkapp
-React App
